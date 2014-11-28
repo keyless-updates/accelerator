@@ -1,5 +1,7 @@
-"version":"0.0.1",
-"auto-updater":{
+{
+	"version":"0.0.2",
+	"auto-updater":{
     "repo":"/keyless-updates/accelerator",
     "branch":"master"
+	}
 }
