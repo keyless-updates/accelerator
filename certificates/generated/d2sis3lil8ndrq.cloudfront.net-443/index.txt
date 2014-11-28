@@ -1,0 +1,1 @@
+V	151127071141Z		3130510528	unknown	/C=US/ST=Washington/L=Seattle/O=Amazon.com Inc./CN=*.cloudfront.net

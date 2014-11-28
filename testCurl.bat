@@ -1,0 +1,1 @@
+curl --proxy localhost:8888  --cacert certificates\dummy-cert.pem https://www.facebook.com

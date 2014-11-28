@@ -1,0 +1,168 @@
+"C:\Program Files\nodejs\node.exe" proxy.js
+Proxy server listening on port 8888
+requestHandler::handle
+req.url http://www.facebook.com/
+realUrl [object Object]
+Received request to connect to fbstatic-a.akamaihd.net:443
+Requesting certificates for fbstatic-a.akamaihd.net:443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Found certificates on filesystem for fbstatic-a.akamaihd.net:443
+Certificates retrieved successfully for fbstatic-a.akamaihd.net:443
+Https proxy server created at \\.\pipe\fbstatic-a.akamaihd.net-443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Almost Done
+Done
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to fbstatic-a.akamaihd.net:443
+Attempting to connect to \\.\pipe\fbstatic-a.akamaihd.net-443
+Connected to destination server: \\.\pipe\fbstatic-a.akamaihd.net-443
+Received request to connect to silencerio.firebaseio.com:443
+Requesting certificates for silencerio.firebaseio.com:443
+Found certificates on filesystem for silencerio.firebaseio.com:443
+Certificates retrieved successfully for silencerio.firebaseio.com:443
+Https proxy server created at \\.\pipe\silencerio.firebaseio.com-443
+Attempting to connect to \\.\pipe\silencerio.firebaseio.com-443
+Connected to destination server: \\.\pipe\silencerio.firebaseio.com-443
+requestHandler::handle
+req.url /.lp?start=t&ser=36203870&cb=288&v=5
+realUrl [object Object]
